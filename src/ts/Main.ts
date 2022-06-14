@@ -11,8 +11,5 @@ class Main {
         //on initialise gameController en disant que c'est un nouvel objet class
         this.gameController = new GameController();
     }
-
-
 }
-
 new Main();

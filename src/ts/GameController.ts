@@ -1,5 +1,10 @@
 import {Animation} from "./Animation";
 
+//dans ce fichier on met
+//- le canvas
+//- le ctx
+//- et l'animation
+//
 
 export class GameController {
     canvasElement : HTMLCanvasElement;
